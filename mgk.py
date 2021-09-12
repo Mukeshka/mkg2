@@ -147,7 +147,7 @@ if(expirydate>today):
     else:
         banner='figlet RXCE'
         print("Hi!! Thanks for buying the hack")
-        #print("Hi! thanks for trying our real")
+        #print("Hi! thanks for trying our REAL")
         print("----------Current price play time-----------")
         print("If you think it is an error contact")
         print(" admin on telegram @RXCE_HACKER ")
@@ -158,7 +158,7 @@ else:
     banner='figlet RXCE'
     system(banner)
     print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
+  
     print(" on telegram ----RXCE_HACKER for activating")
     print(" Recharge Amount :        Total limit " )
     print(" 1.     1000 INR -------  1 Day (40 Games")
